@@ -1,9 +1,7 @@
 # AI-Use Disclosure
 
-ChatGPT was used to assist with structuring Python code, reviewing data-cleaning
-logic, selecting statistical comparisons, refining visualization design, and
-editing explanatory text.
+ChatGPT was used to assist with data-cleaning review, analysis, 
+visualization refinement, and editorial review. I reviewed and 
+validated all code, calculations, visualizations, interpretations, 
+and final conclusions.
 
-The author, Muhammad Suffyan Khan, obtained the data from the cited sources,
-executed the analysis, reviewed the code and outputs, verified the calculations,
-and is responsible for the final interpretations and conclusions.
