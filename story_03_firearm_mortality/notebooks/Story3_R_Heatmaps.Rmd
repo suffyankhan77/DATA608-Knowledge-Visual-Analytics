@@ -1,0 +1,21 @@
+---
+title: "Story 3: Gun law strength and firearm mortality"
+author: "Muhammad Suffyan Khan"
+output: html_document
+---
+
+The full explanation is in the Jupyter notebook. The standalone chart script needs only base R; knitting additionally needs knitr and rmarkdown.
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = normalizePath(".."))
+```
+
+```{r create-charts}
+source("scripts/create_heatmaps.R")
+```
+
+The state maps now include direct takeaways, printed law levels, and numbered outlines linking Hawaii, Mississippi and New Mexico to their annotations. The mortality-band heat map prints state counts and within-group percentages, with color encoding the percentage on a fixed 0-to-100 scale. Black outlines emphasize the F group at 16 or more deaths (15/22, 68%) and the A group below 8 (7/13, 54%). This makes the message visible on the chart and accounts for unequal group sizes. Rounded cell percentages may not sum to 100%.
+
+```{r show-charts, echo=FALSE, out.width="100%"}
+knitr::include_graphics(c("figures/01_law_strength_heatmap.png", "figures/02_firearm_mortality_heatmap.png", "figures/03_law_by_mortality_count_heatmap.png"))
+```

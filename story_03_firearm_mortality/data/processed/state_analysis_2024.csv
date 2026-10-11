@@ -1,0 +1,51 @@
+state,abbr,gun_law_grade,gun_law_strength_rank,law_level,law_label,firearm_death_rate_2024,year,rate_type,period
+Hawaii,HI,A-,7,5,5  Strictest (A),3.7,2024,age-adjusted,12 months ending 2024 Q4
+Massachusetts,MA,A,5,5,5  Strictest (A),3.8,2024,age-adjusted,12 months ending 2024 Q4
+New Jersey,NJ,A,2,5,5  Strictest (A),4.0,2024,age-adjusted,12 months ending 2024 Q4
+New York,NY,A,4,5,5  Strictest (A),4.4,2024,age-adjusted,12 months ending 2024 Q4
+Rhode Island,RI,A-,12,5,5  Strictest (A),4.6,2024,age-adjusted,12 months ending 2024 Q4
+Connecticut,CT,A,3,5,5  Strictest (A),5.8,2024,age-adjusted,12 months ending 2024 Q4
+California,CA,A,1,5,5  Strictest (A),7.0,2024,age-adjusted,12 months ending 2024 Q4
+Washington,WA,A-,9,5,5  Strictest (A),11.0,2024,age-adjusted,12 months ending 2024 Q4
+Maryland,MD,A-,8,5,5  Strictest (A),11.6,2024,age-adjusted,12 months ending 2024 Q4
+Delaware,DE,A-,13,5,5  Strictest (A),11.8,2024,age-adjusted,12 months ending 2024 Q4
+Illinois,IL,A-,6,5,5  Strictest (A),12.4,2024,age-adjusted,12 months ending 2024 Q4
+Oregon,OR,A-,11,5,5  Strictest (A),14.2,2024,age-adjusted,12 months ending 2024 Q4
+Colorado,CO,A-,10,5,5  Strictest (A),15.3,2024,age-adjusted,12 months ending 2024 Q4
+Minnesota,MN,B,15,4,4  Strict (B),9.8,2024,age-adjusted,12 months ending 2024 Q4
+Vermont,VT,B-,18,4,4  Strict (B),10.6,2024,age-adjusted,12 months ending 2024 Q4
+Michigan,MI,B-,17,4,4  Strict (B),11.9,2024,age-adjusted,12 months ending 2024 Q4
+Pennsylvania,PA,B,16,4,4  Strict (B),11.9,2024,age-adjusted,12 months ending 2024 Q4
+Virginia,VA,B+,14,4,4  Strict (B),12.8,2024,age-adjusted,12 months ending 2024 Q4
+Nevada,NV,B-,20,4,4  Strict (B),17.2,2024,age-adjusted,12 months ending 2024 Q4
+New Mexico,NM,B-,19,4,4  Strict (B),26.6,2024,age-adjusted,12 months ending 2024 Q4
+Nebraska,NE,C-,23,3,3  Middle (C),10.9,2024,age-adjusted,12 months ending 2024 Q4
+Maine,ME,C+,21,3,3  Middle (C),11.9,2024,age-adjusted,12 months ending 2024 Q4
+Wisconsin,WI,C,22,3,3  Middle (C),12.1,2024,age-adjusted,12 months ending 2024 Q4
+Florida,FL,C-,24,3,3  Middle (C),12.7,2024,age-adjusted,12 months ending 2024 Q4
+North Carolina,NC,C-,24,3,3  Middle (C),16.3,2024,age-adjusted,12 months ending 2024 Q4
+New Hampshire,NH,D-,28,2,2  Lax (D),10.2,2024,age-adjusted,12 months ending 2024 Q4
+Ohio,OH,D-,26,2,2  Lax (D),14.6,2024,age-adjusted,12 months ending 2024 Q4
+Indiana,IN,D-,27,2,2  Lax (D),17.2,2024,age-adjusted,12 months ending 2024 Q4
+Iowa,IA,F,32,1,1  Most lax (F),11.8,2024,age-adjusted,12 months ending 2024 Q4
+North Dakota,ND,F,34,1,1  Most lax (F),12.2,2024,age-adjusted,12 months ending 2024 Q4
+Utah,UT,F,29,1,1  Most lax (F),13.3,2024,age-adjusted,12 months ending 2024 Q4
+Texas,TX,F,29,1,1  Most lax (F),13.9,2024,age-adjusted,12 months ending 2024 Q4
+Kansas,KS,F,42,1,1  Most lax (F),15.2,2024,age-adjusted,12 months ending 2024 Q4
+West Virginia,WV,F,34,1,1  Most lax (F),15.3,2024,age-adjusted,12 months ending 2024 Q4
+Idaho,ID,F,46,1,1  Most lax (F),15.9,2024,age-adjusted,12 months ending 2024 Q4
+Arizona,AZ,F,41,1,1  Most lax (F),16.9,2024,age-adjusted,12 months ending 2024 Q4
+South Dakota,SD,F,43,1,1  Most lax (F),17.3,2024,age-adjusted,12 months ending 2024 Q4
+Georgia,GA,F,31,1,1  Most lax (F),17.6,2024,age-adjusted,12 months ending 2024 Q4
+Kentucky,KY,F,47,1,1  Most lax (F),18.5,2024,age-adjusted,12 months ending 2024 Q4
+Oklahoma,OK,F,39,1,1  Most lax (F),19.1,2024,age-adjusted,12 months ending 2024 Q4
+South Carolina,SC,F,34,1,1  Most lax (F),19.5,2024,age-adjusted,12 months ending 2024 Q4
+Missouri,MO,F,48,1,1  Most lax (F),19.6,2024,age-adjusted,12 months ending 2024 Q4
+Tennessee,TN,F,32,1,1  Most lax (F),19.8,2024,age-adjusted,12 months ending 2024 Q4
+Montana,MT,F,45,1,1  Most lax (F),20.2,2024,age-adjusted,12 months ending 2024 Q4
+Arkansas,AR,F,48,1,1  Most lax (F),20.6,2024,age-adjusted,12 months ending 2024 Q4
+Louisiana,LA,F,38,1,1  Most lax (F),22.9,2024,age-adjusted,12 months ending 2024 Q4
+Wyoming,WY,F,50,1,1  Most lax (F),23.4,2024,age-adjusted,12 months ending 2024 Q4
+Alabama,AL,F,34,1,1  Most lax (F),23.7,2024,age-adjusted,12 months ending 2024 Q4
+Alaska,AK,F,40,1,1  Most lax (F),24.4,2024,age-adjusted,12 months ending 2024 Q4
+Mississippi,MS,F,43,1,1  Most lax (F),28.0,2024,age-adjusted,12 months ending 2024 Q4

@@ -1,0 +1,106 @@
+{
+  "count": 50,
+  "spearman_rho": -0.7169615725352015,
+  "spearman_p_two_sided": 4.723190741996224e-09,
+  "five_level_summary": [
+    {
+      "law_level": 1,
+      "law_label": "1  Most lax (F)",
+      "states": 22,
+      "mean_rate": 18.595,
+      "median_rate": 18.8,
+      "min_rate": 11.8,
+      "max_rate": 28.0
+    },
+    {
+      "law_level": 2,
+      "law_label": "2  Lax (D)",
+      "states": 3,
+      "mean_rate": 14.0,
+      "median_rate": 14.6,
+      "min_rate": 10.2,
+      "max_rate": 17.2
+    },
+    {
+      "law_level": 3,
+      "law_label": "3  Middle (C)",
+      "states": 5,
+      "mean_rate": 12.78,
+      "median_rate": 12.1,
+      "min_rate": 10.9,
+      "max_rate": 16.3
+    },
+    {
+      "law_level": 4,
+      "law_label": "4  Strict (B)",
+      "states": 7,
+      "mean_rate": 14.4,
+      "median_rate": 11.9,
+      "min_rate": 9.8,
+      "max_rate": 26.6
+    },
+    {
+      "law_level": 5,
+      "law_label": "5  Strictest (A)",
+      "states": 13,
+      "mean_rate": 8.431,
+      "median_rate": 7.0,
+      "min_rate": 3.7,
+      "max_rate": 15.3
+    }
+  ],
+  "lowest_rate_states": [
+    {
+      "state": "Hawaii",
+      "gun_law_grade": "A-",
+      "firearm_death_rate_2024": 3.7
+    },
+    {
+      "state": "Massachusetts",
+      "gun_law_grade": "A",
+      "firearm_death_rate_2024": 3.8
+    },
+    {
+      "state": "New Jersey",
+      "gun_law_grade": "A",
+      "firearm_death_rate_2024": 4.0
+    },
+    {
+      "state": "New York",
+      "gun_law_grade": "A",
+      "firearm_death_rate_2024": 4.4
+    },
+    {
+      "state": "Rhode Island",
+      "gun_law_grade": "A-",
+      "firearm_death_rate_2024": 4.6
+    }
+  ],
+  "highest_rate_states": [
+    {
+      "state": "Mississippi",
+      "gun_law_grade": "F",
+      "firearm_death_rate_2024": 28.0
+    },
+    {
+      "state": "New Mexico",
+      "gun_law_grade": "B-",
+      "firearm_death_rate_2024": 26.6
+    },
+    {
+      "state": "Alaska",
+      "gun_law_grade": "F",
+      "firearm_death_rate_2024": 24.4
+    },
+    {
+      "state": "Alabama",
+      "gun_law_grade": "F",
+      "firearm_death_rate_2024": 23.7
+    },
+    {
+      "state": "Wyoming",
+      "gun_law_grade": "F",
+      "firearm_death_rate_2024": 23.4
+    }
+  ]
+}

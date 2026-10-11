@@ -1,0 +1,283 @@
+{
+  "name": "NCHS - VSRR Quarterly provisional estimates for selected indicators of mortality",
+  "description": "Provisional estimates of death rates. Estimates are presented for each of the 15 leading causes of death plus estimates for deaths attributed to drug overdose, falls (for persons aged 65 and over), human immunodeficiency virus (HIV) disease, homicide, and firearms-related deaths.",
+  "columns": [
+    {
+      "fieldName": "year_and_quarter",
+      "name": "Year and Quarter"
+    },
+    {
+      "fieldName": "time_period",
+      "name": "Time Period"
+    },
+    {
+      "fieldName": "cause_of_death",
+      "name": "Cause of Death"
+    },
+    {
+      "fieldName": "rate_type",
+      "name": "Rate Type"
+    },
+    {
+      "fieldName": "unit",
+      "name": "Unit"
+    },
+    {
+      "fieldName": "rate_overall",
+      "name": "Overall Rate"
+    },
+    {
+      "fieldName": "rate_sex_female",
+      "name": "Rate Sex Female"
+    },
+    {
+      "fieldName": "rate_sex_male",
+      "name": "Rate Sex Male"
+    },
+    {
+      "fieldName": "rate_age_1_4",
+      "name": "Rate Age 1-4"
+    },
+    {
+      "fieldName": "rate_age_5_14",
+      "name": "Rate Age 5-14"
+    },
+    {
+      "fieldName": "rate_age_15_24",
+      "name": "Rate Age 15-24"
+    },
+    {
+      "fieldName": "rate_age_25_34",
+      "name": "Rate Age 25-34"
+    },
+    {
+      "fieldName": "rate_age_35_44",
+      "name": "Rate Age 35-44"
+    },
+    {
+      "fieldName": "rate_age_45_54",
+      "name": "Rate Age 45-54"
+    },
+    {
+      "fieldName": "rate_age_55_64",
+      "name": "Rate Age 55-64"
+    },
+    {
+      "fieldName": "rate_65_74",
+      "name": "Rate 65-74"
+    },
+    {
+      "fieldName": "rate_age_75_84",
+      "name": "Rate Age 75-84"
+    },
+    {
+      "fieldName": "rate_age_85_plus",
+      "name": "Rate Age 85 plus"
+    },
+    {
+      "fieldName": "rate_alaska",
+      "name": "Rate Alaska"
+    },
+    {
+      "fieldName": "rate_alabama",
+      "name": "Rate Alabama"
+    },
+    {
+      "fieldName": "rate_arkansas",
+      "name": "Rate Arkansas"
+    },
+    {
+      "fieldName": "rate_arizona",
+      "name": "Rate Arizona"
+    },
+    {
+      "fieldName": "rate_california",
+      "name": "Rate California"
+    },
+    {
+      "fieldName": "rate_colorado",
+      "name": "Rate Colorado"
+    },
+    {
+      "fieldName": "rate_connecticut",
+      "name": "Rate Connecticut"
+    },
+    {
+      "fieldName": "rate_district_of_columbia",
+      "name": "Rate District of Columbia"
+    },
+    {
+      "fieldName": "rate_delaware",
+      "name": "Rate Delaware"
+    },
+    {
+      "fieldName": "rate_florida",
+      "name": "Rate Florida"
+    },
+    {
+      "fieldName": "rate_georgia",
+      "name": "Rate Georgia"
+    },
+    {
+      "fieldName": "rate_hawaii",
+      "name": "Rate Hawaii"
+    },
+    {
+      "fieldName": "rate_iowa",
+      "name": "Rate Iowa"
+    },
+    {
+      "fieldName": "rate_idaho",
+      "name": "Rate Idaho"
+    },
+    {
+      "fieldName": "rate_illinois",
+      "name": "Rate Illinois"
+    },
+    {
+      "fieldName": "rate_indiana",
+      "name": "Rate Indiana"
+    },
+    {
+      "fieldName": "rate_kansas",
+      "name": "Rate Kansas"
+    },
+    {
+      "fieldName": "rate_kentucky",
+      "name": "Rate Kentucky"
+    },
+    {
+      "fieldName": "rate_louisiana",
+      "name": "Rate Louisiana"
+    },
+    {
+      "fieldName": "rate_massachusetts",
+      "name": "Rate Massachusetts"
+    },
+    {
+      "fieldName": "rate_maryland",
+      "name": "Rate Maryland"
+    },
+    {
+      "fieldName": "rate_maine",
+      "name": "Rate Maine"
+    },
+    {
+      "fieldName": "rate_michigan",
+      "name": "Rate Michigan"
+    },
+    {
+      "fieldName": "rate_minnesota",
+      "name": "Rate Minnesota"
+    },
+    {
+      "fieldName": "rate_missouri",
+      "name": "Rate Missouri"
+    },
+    {
+      "fieldName": "rate_mississippi",
+      "name": "Rate Mississippi"
+    },
+    {
+      "fieldName": "rate_montana",
+      "name": "Rate Montana"
+    },
+    {
+      "fieldName": "rate_north_carolina",
+      "name": "Rate North Carolina"
+    },
+    {
+      "fieldName": "rate_north_dakota",
+      "name": "Rate North Dakota"
+    },
+    {
+      "fieldName": "rate_nebraska",
+      "name": "Rate Nebraska"
+    },
+    {
+      "fieldName": "rate_new_hampshire",
+      "name": "Rate New Hampshire"
+    },
+    {
+      "fieldName": "rate_new_jersey",
+      "name": "Rate New Jersey"
+    },
+    {
+      "fieldName": "rate_new_mexico",
+      "name": "Rate New Mexico"
+    },
+    {
+      "fieldName": "rate_nevada",
+      "name": "Rate Nevada"
+    },
+    {
+      "fieldName": "rate_new_york",
+      "name": "Rate New York"
+    },
+    {
+      "fieldName": "rate_ohio",
+      "name": "Rate Ohio"
+    },
+    {
+      "fieldName": "rate_oklahoma",
+      "name": "Rate Oklahoma"
+    },
+    {
+      "fieldName": "rate_oregon",
+      "name": "Rate Oregon"
+    },
+    {
+      "fieldName": "rate_pennsylvania",
+      "name": "Rate Pennsylvania"
+    },
+    {
+      "fieldName": "rate_rhode_island",
+      "name": "Rate Rhode Island"
+    },
+    {
+      "fieldName": "rate_south_carolina",
+      "name": "Rate South Carolina"
+    },
+    {
+      "fieldName": "rate_south_dakota",
+      "name": "Rate South Dakota"
+    },
+    {
+      "fieldName": "rate_tennessee",
+      "name": "Rate Tennessee"
+    },
+    {
+      "fieldName": "rate_texas",
+      "name": "Rate Texas"
+    },
+    {
+      "fieldName": "rate_utah",
+      "name": "Rate Utah"
+    },
+    {
+      "fieldName": "rate_virginia",
+      "name": "Rate Virginia"
+    },
+    {
+      "fieldName": "rate_vermont",
+      "name": "Rate Vermont"
+    },
+    {
+      "fieldName": "rate_washington",
+      "name": "Rate Washington"
+    },
+    {
+      "fieldName": "rate_wisconsin",
+      "name": "Rate Wisconsin"
+    },
+    {
+      "fieldName": "rate_west_virginia",
+      "name": "Rate West Virginia"
+    },
+    {
+      "fieldName": "rate_wyoming",
+      "name": "Rate Wyoming"
+    }
+  ],
+  "source_url": "https://data.cdc.gov/api/views/489q-934x.json"
+}
