@@ -1,0 +1,1 @@
+Official BLS raw OEWS bulk files were not obtained for this version. No raw data files are invented. The sourced, curated data are in ../processed/ and provenance is documented in ../../sources/SOURCES.md.

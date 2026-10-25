@@ -1,0 +1,97 @@
+state,state_abbr,occupation,soc,annual_mean_usd,reference_period,source_url
+California,CA,Data Scientists,15-2051,156000.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+California,CA,Database Architects,15-1243,175330.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+California,CA,Database Administrators,15-1242,121500.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+California,CA,Computer Systems Analysts,15-1211,130480.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+California,CA,Operations Research Analysts,15-2031,110860.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+California,CA,Statisticians,15-2041,140780.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Colorado,CO,Data Scientists,15-2051,126800.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Colorado,CO,Database Architects,15-1243,146780.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Colorado,CO,Database Administrators,15-1242,115130.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Colorado,CO,Computer Systems Analysts,15-1211,132980.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Colorado,CO,Operations Research Analysts,15-2031,130610.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Colorado,CO,Statisticians,15-2041,114520.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Connecticut,CT,Data Scientists,15-2051,129850.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Connecticut,CT,Database Architects,15-1243,154520.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Connecticut,CT,Database Administrators,15-1242,113250.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Connecticut,CT,Computer Systems Analysts,15-1211,114960.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Connecticut,CT,Operations Research Analysts,15-2031,97910.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Connecticut,CT,Statisticians,15-2041,112850.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Florida,FL,Data Scientists,15-2051,119150.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Florida,FL,Database Architects,15-1243,142270.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Florida,FL,Database Administrators,15-1242,107750.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Florida,FL,Computer Systems Analysts,15-1211,106620.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Florida,FL,Operations Research Analysts,15-2031,84250.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Florida,FL,Statisticians,15-2041,113520.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Georgia,GA,Data Scientists,15-2051,115940.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Georgia,GA,Database Architects,15-1243,144970.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Georgia,GA,Database Administrators,15-1242,108580.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Georgia,GA,Computer Systems Analysts,15-1211,114130.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Georgia,GA,Operations Research Analysts,15-2031,85530.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Georgia,GA,Statisticians,15-2041,118350.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Illinois,IL,Data Scientists,15-2051,117870.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Illinois,IL,Database Architects,15-1243,144790.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Illinois,IL,Database Administrators,15-1242,108300.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Illinois,IL,Computer Systems Analysts,15-1211,104190.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Illinois,IL,Operations Research Analysts,15-2031,104580.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Illinois,IL,Statisticians,15-2041,120170.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Maryland,MD,Data Scientists,15-2051,144080.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Maryland,MD,Database Architects,15-1243,141810.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Maryland,MD,Database Administrators,15-1242,126510.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Maryland,MD,Computer Systems Analysts,15-1211,120980.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Maryland,MD,Operations Research Analysts,15-2031,106620.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Maryland,MD,Statisticians,15-2041,133370.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Massachusetts,MA,Data Scientists,15-2051,136460.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Massachusetts,MA,Database Architects,15-1243,163290.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Massachusetts,MA,Database Administrators,15-1242,126790.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Massachusetts,MA,Computer Systems Analysts,15-1211,128440.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Massachusetts,MA,Operations Research Analysts,15-2031,104450.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Massachusetts,MA,Statisticians,15-2041,114210.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Mississippi,MS,Data Scientists,15-2051,79290.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Mississippi,MS,Database Architects,15-1243,98030.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Mississippi,MS,Database Administrators,15-1242,87050.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Mississippi,MS,Computer Systems Analysts,15-1211,99250.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Mississippi,MS,Operations Research Analysts,15-2031,92040.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Mississippi,MS,Statisticians,15-2041,68000.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+New Jersey,NJ,Data Scientists,15-2051,138590.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+New Jersey,NJ,Database Architects,15-1243,130590.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+New Jersey,NJ,Database Administrators,15-1242,125070.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+New Jersey,NJ,Computer Systems Analysts,15-1211,125850.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+New Jersey,NJ,Operations Research Analysts,15-2031,,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+New Jersey,NJ,Statisticians,15-2041,126370.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+New York,NY,Data Scientists,15-2051,137690.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+New York,NY,Database Architects,15-1243,145180.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+New York,NY,Database Administrators,15-1242,114100.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+New York,NY,Computer Systems Analysts,15-1211,117960.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+New York,NY,Operations Research Analysts,15-2031,117790.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+New York,NY,Statisticians,15-2041,146430.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+North Carolina,NC,Data Scientists,15-2051,121270.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+North Carolina,NC,Database Architects,15-1243,136590.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+North Carolina,NC,Database Administrators,15-1242,113260.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+North Carolina,NC,Computer Systems Analysts,15-1211,114330.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+North Carolina,NC,Operations Research Analysts,15-2031,98000.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+North Carolina,NC,Statisticians,15-2041,122490.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Texas,TX,Data Scientists,15-2051,119710.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Texas,TX,Database Architects,15-1243,146050.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Texas,TX,Database Administrators,15-1242,113270.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Texas,TX,Computer Systems Analysts,15-1211,117170.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Texas,TX,Operations Research Analysts,15-2031,100070.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Texas,TX,Statisticians,15-2041,107390.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Virginia,VA,Data Scientists,15-2051,134590.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Virginia,VA,Database Architects,15-1243,154550.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Virginia,VA,Database Administrators,15-1242,104560.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Virginia,VA,Computer Systems Analysts,15-1211,123030.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Virginia,VA,Operations Research Analysts,15-2031,130720.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Virginia,VA,Statisticians,15-2041,120570.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Washington,WA,Data Scientists,15-2051,158040.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Washington,WA,Database Architects,15-1243,135800.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Washington,WA,Database Administrators,15-1242,122310.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Washington,WA,Computer Systems Analysts,15-1211,131270.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Washington,WA,Operations Research Analysts,15-2031,107340.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Washington,WA,Statisticians,15-2041,112600.0,May 2025,https://signalbleed.com/jobs/statisticians.html
+Alabama,AL,Data Scientists,15-2051,105180.0,May 2025,https://signalbleed.com/jobs/data-scientists.html
+Alabama,AL,Database Architects,15-1243,118790.0,May 2025,https://signalbleed.com/jobs/database-architects.html
+Alabama,AL,Database Administrators,15-1242,96500.0,May 2025,https://signalbleed.com/jobs/database-administrators.html
+Alabama,AL,Computer Systems Analysts,15-1211,107430.0,May 2025,https://signalbleed.com/jobs/computer-systems-analysts.html
+Alabama,AL,Operations Research Analysts,15-2031,117850.0,May 2025,https://signalbleed.com/jobs/operations-research-analysts.html
+Alabama,AL,Statisticians,15-2041,79820.0,May 2025,https://signalbleed.com/jobs/statisticians.html
